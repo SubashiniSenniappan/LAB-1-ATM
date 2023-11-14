@@ -7,8 +7,6 @@ System.
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
 ### UML DIAGRAMS:
-## Developed by Subashini.S
-## Reg No:212222240106
 
 ## USE CASE DIAGRAM:
 ![image](https://github.com/SubashiniSenniappan/LAB-1-ATM/assets/119404951/269eeebe-183c-4c12-8df4-28f12aeb8f3c)
